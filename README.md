@@ -6,7 +6,7 @@ It's beautiful and fun where cliking.
 <br>
 <br>
 <br>
-<img src="apps_img.png" height="50%"/>
+<img src="apps_img.png" style="height:200px"/>
 
 
 
