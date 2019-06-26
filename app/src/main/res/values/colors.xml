@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundColor">#fcfcfc</color>
+    <color name="purple">#DA440CB4</color>
+    <color name="lightGray">#ededed</color>
+    <color name="yello">#FFC107</color>
+    <color name="green">#00bfa5</color>
+    <color name="pink">#FF4081</color>
+    <color name="dark_gray">#555151</color>
+
+</resources>

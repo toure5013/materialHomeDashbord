@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homdashbord2</string>
+    <string name="bank">banking</string>
+    <string name="banckActivity">Check your bank activity</string>
+    <string name="idea">Ideas</string>
+    <string name="add">Add</string>
+    <string name="link">Links</string>
+    <string name="wifi">Wireless</string>
+    <string name="connection">Wifi connected</string>
+</resources>
